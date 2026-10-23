@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.mypy_cache/
+
+# Per-user add-in settings written at runtime
+SheetNester/settings.json
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

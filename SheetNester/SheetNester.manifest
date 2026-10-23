@@ -1,0 +1,13 @@
+{
+    "autodeskProduct": "Fusion",
+    "type": "addin",
+    "author": "",
+    "description": {
+        "": "Lay flat panels (MDF, plywood) on a sheet and nest them for CNC cutting. Handles chamfered and bevelled edges, tool spacing, multiple sheets and thicknesses, DXF export."
+    },
+    "version": "1.0.0",
+    "runOnStartup": true,
+    "supportedOS": "windows|mac",
+    "editEnabled": true,
+    "iconFilename": "resources/32x32.png"
+}
